@@ -1,5 +1,6 @@
 Name:           Francisco McGee
 Assignment:     Bias, Variance
+Github:         https://github.com/alagauche/Francisco_BiasVariance 
 
 INSTRUCTIONS:
 The only important file is the ipython notebook:
